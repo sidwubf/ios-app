@@ -24,7 +24,7 @@ else in the doc, define the link:
 
 1.  Numbered 
 2.  Lists
-3.  Node
+3.  Nodes
 
 # Bulleted List
 
